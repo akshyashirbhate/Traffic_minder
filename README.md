@@ -1,3 +1,4 @@
+
 # 🚦 Traffic Minder
 
 ### Intelligent Traffic Monitoring, Prediction & Analytics System
@@ -83,3 +84,7 @@ Developed as a collaborative Machine Learning and Software Engineering project.
 ---
 
 *Traffic Minder — Turning traffic data into intelligent insights.*
+=======
+# Traffic_minder
+Traffic congestion project
+ 286296a3de5dd01f34be4b9ae1d424f705c91c12
